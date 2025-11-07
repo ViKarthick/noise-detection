@@ -21,7 +21,6 @@ This repository contains a Python-based project for detecting and denoising nois
 
 ## Results
 - Sample outputs demonstrate effective noise removal, with bilateral and NLM filters outperforming in specific cases.
-- Accuracy and performance are pending validation on a larger dataset (e.g., BSD500).
 
 ## Installation
 1. Clone the repository:
