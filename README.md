@@ -20,7 +20,8 @@ This repository contains a Python-based project for detecting and denoising nois
 - **Multi-Metric Optimization**: Introduces a data-driven approach to select the best denoising filter, enhancing traditional methods.
 
 ## Results
-- Sample outputs demonstrate effective noise removal, with bilateral and NLM filters outperforming in specific cases.
+- Sample outputs demonstrate effective noise removal on custom dataset, with bilateral and NLM filters outperforming in specific cases.
+- Achieves 95% Accuracy on custom dataset, and improves PSNR and SSIM by 15dB and 0.3 respectively on average.
 
 ## Installation
 1. Clone the repository:
